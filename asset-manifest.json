@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/Memory-Card-project/static/css/main.d0a3b01b.css",
+    "main.js": "/Memory-Card-project/static/js/main.73bc1bb8.js",
+    "static/media/Wario.png": "/Memory-Card-project/static/media/Wario.a04a784d70bf91b6da74.png",
+    "static/media/Zelda.png": "/Memory-Card-project/static/media/Zelda.07ce058a644e42acba4b.png",
+    "static/media/Angel.png": "/Memory-Card-project/static/media/Angel.1b1c8f9e50cd8ca7c3e1.png",
+    "static/media/Pacman.png": "/Memory-Card-project/static/media/Pacman.72f8c71c4281d3a272ec.png",
+    "static/media/Ash.png": "/Memory-Card-project/static/media/Ash.d532760c709f04e0b35e.png",
+    "static/media/Mario.png": "/Memory-Card-project/static/media/Mario.fa6c4d41eb8997001292.png",
+    "index.html": "/Memory-Card-project/index.html",
+    "main.d0a3b01b.css.map": "/Memory-Card-project/static/css/main.d0a3b01b.css.map",
+    "main.73bc1bb8.js.map": "/Memory-Card-project/static/js/main.73bc1bb8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d0a3b01b.css",
+    "static/js/main.73bc1bb8.js"
+  ]
+}
