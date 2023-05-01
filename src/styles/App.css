@@ -1,0 +1,17 @@
+:root {
+    --grey: #f1faee;
+    --light-azure: #a8dadc;
+    --blue: #457b9d;
+    --dark-blue: #1d3557;
+}
+
+body {
+    margin: 0;
+    overflow: hidden;
+}
+
+.App {
+    margin: 0;
+    background-color: var(--grey);
+}
+

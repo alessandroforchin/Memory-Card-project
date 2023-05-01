@@ -1,0 +1,30 @@
+:root {
+    --grey: #f1faee;
+    --light-azure: #a8dadc;
+    --blue: #457b9d;
+    --dark-blue: #1d3557;
+}
+
+.gameboard-container {
+    display: grid;
+    grid-template-columns: repeat(6, 1fr);
+    margin: 0 150px;
+    background-color: var(--grey);
+    height: 70vh;
+    padding: 30px;
+    border-radius: 10px;
+    box-shadow: 4px 4px 8px #ced4cb inset;
+}
+
+.gameboard-container img {
+    height: 130px;
+}
+
+@media screen and (max-width: 1300px) {
+    .gameboard-container {
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: center;
+        margin: 0 50px;
+    }
+}

@@ -1,0 +1,29 @@
+:root {
+    --grey: #f1faee;
+    --light-azure: #a8dadc;
+    --blue: #457b9d;
+    --dark-blue: #1d3557;
+}
+
+.footer-container {
+    width: 100%;
+    height: 30px;
+    margin: 0;
+    padding: 10px;
+    background-color: var(--grey);
+    position: absolute;
+    bottom: 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.footer-container a {
+    list-style: none;
+    text-decoration: none;
+    color: black;
+}
+
+.footer-container i {
+    margin-right: 5px;
+}

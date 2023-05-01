@@ -1,0 +1,36 @@
+:root {
+    --grey: #f6f7f6;
+    --light-azure: #a8dadc;
+    --blue: #457b9d;
+    --dark-blue: #1d3557;
+}
+
+.header-container {
+    display: grid;
+    grid-template-areas: 
+        'title title score'
+        'rules rules rules';
+    align-items: center;
+    background-color: var(--grey);
+}
+
+.title {
+    font-family: 'Montserrat Subrayada', sans-serif;
+    grid-area: title;
+    color: black;
+    padding-left: 20px;
+    font-size: 40px;
+}
+
+.score.tab {
+    grid-area: score;
+    color: black;
+}
+
+.game-rules {
+    grid-area: rules;
+    color: var(--dark-blue);
+    padding-left: 20px;
+    font-size: 18px;
+}
+
